@@ -1,2 +1,3 @@
 # Hello-World
-Learning Git
+
+This is just to test and learn the basic things of Git.
