@@ -1,4 +1,2 @@
 # Hello-World
-Learning.
-
-HEllO WORLD............................
+Learning Git
